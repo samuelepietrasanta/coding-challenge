@@ -1,0 +1,79 @@
+body{
+  background-image: url("background.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.container{
+  padding:40px;
+  width: 50%;
+  margin: auto;
+  margin-top: 30px;
+  background-color: rgba(0,0,0,0.4);
+  border-radius: 15px;
+}
+
+header{
+  text-align: center;
+}
+
+#logo{
+  padding: 10px;
+  width: 30%;
+}
+
+#sottotitolo{
+  color: rgb(0,221,0)
+}
+
+.barra_prenotazioni{
+  padding:15px;
+  background-color: rgb(0,221,0);
+  text-align: center;
+}
+
+.monopattini_disponibili{
+  margin-top:20px;
+}
+
+.nome_monopattino{
+  color:white;
+}
+
+.indirizzo_monopattino{
+  color: white;
+}
+
+.stato_carica{
+  color: white;
+}
+
+#prima_barra{
+  background-color: orange;
+  width: 40%;
+  height: 15px;
+  border-radius: 10px;
+
+}
+
+#monopattino2{
+  margin-top:20px;
+}
+
+#seconda_barra{
+  background-color: green;
+  width: 70%;
+  height: 15px;
+  border-radius: 10px;
+
+}
+
+#monopattino3{
+  margin-top:20px;
+}
+
+#terza_barra{
+  background-color: red;
+  width: 20%;
+  height: 15px;
+  border-radius: 10px;
+}
